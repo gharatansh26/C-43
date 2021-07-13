@@ -1,2 +1,2 @@
-# C-43
-games
+# synchronousBallMovement
+Ball moving synchronously
